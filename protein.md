@@ -1,5 +1,7 @@
 # AlphaProteo
 
+首先感谢汪千桐对 AlphaFold 的分享.
+
 由于作者在报告中已经提及,
 
 > This report does not include machine learning methods due to biosecurity and commercial considerations.
@@ -110,6 +112,6 @@ RFdiffusion:
 
 最后, 筛选模型输出的结合体候选结构在实验室中进行生物化学实验测试, 测量其结合强度 (如 KD 值) 和结合成功率. 由于其有一定难度, 这里就不单独介绍了, 有兴趣的同学可以去看原报告.
 
-##
+## 应用
 
 下面将由剩下两位同学介绍 AlphaProteo 的实际应用.
